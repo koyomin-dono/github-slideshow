@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"ore wa chin chin ga daisuki nandayo!"
 Use the left arrow to go back!
